@@ -1,1 +1,2 @@
-hello i am stuck here
+hello i am stuck here.
+cleared the first step.
